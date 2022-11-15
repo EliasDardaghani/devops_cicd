@@ -1,0 +1,8 @@
+[
+  "lesson_5/test_baby.py::test_hello_world",
+  "lesson_5/test_baby.py::test_multiplication",
+  "lesson_5/test_first.py::test_hello_world",
+  "lesson_5/test_first.py::test_multiplication",
+  "lesson_5/test_second.py::test_second",
+  "lesson_5/test_second.py::test_third"
+]
