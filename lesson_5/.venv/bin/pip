@@ -1,4 +1,4 @@
-#!/home/elias/repos/devops_cicd/.venv/bin/python3
+#!/home/elias/repos/devops_cicd/lesson_5/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
